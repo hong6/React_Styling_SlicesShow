@@ -52,34 +52,29 @@ export default class SliceApp extends React.Component {
           <Slide image={require('./images/2.jpg')} title="Learn to Social">
             It’s not surprising that the Labradoodle has gained such popularity so quickly.             
           </Slide>
-          <Slide
-            image={require('./images/3.jpg')}
+          <Slide image={require('./images/3.jpg')}
             title="Taste of Snow First Time"
           >
-            Internships work! When determining a career path, it is wise to
-            first find someone currently in that line of work. They will likely
-            be able to show you what it's really like before you commit your
-            future.
+            Much like humans, Labradoodles can have issues with dry, itchy skin in the winter months. 
+            ... It is great to use on paw pads to keep the winter from being too tough on your Labradoodle. 
           </Slide>
           <Slide image={require('./images/4.jpg')} title="Puppy - only 8 weeks">
-          Labradoodles' coat colors include chocolate, cafe, parchment, 
+          Labradoodles coat colors include chocolate, cafe, parchment, 
           cream, gold, apricot, red, black, silver, chalk, lavender, and blue. 
           Coat patterns can be solid, white abstract markings, parti, phantom, 
           or tri-coloured. In general, Labradoodles may have any coat-color a poodle can have.
           </Slide>
-          <Slide
-            image={require('./images/5.jpg')} title="New Hair Cut"
+          <Slide image={require('./images/5.jpg')} title="New Hair Cut"
           >
-            Labradoodles' hair can be anywhere from wiry to soft, 
+            Labradoodles hair can be anywhere from wiry to soft, 
             and may be straight, wavy, or curly. Some Labradoodles do shed, 
             although the coat usually sheds less and has less "dog odor" than that of a Labrador retriever.
           </Slide>
-          <Slide
-            image={require('./images/6.jpg')} title="Wild 风一般的女纸 ~~~ 哈哈哈"
+          <Slide image={require('./images/6.jpg')} title="Wild 风一般的女纸 ~~~ 哈哈哈"
           >
-            Labradoodles' hair can be anywhere from wiry to soft, 
-            and may be straight, wavy, or curly. Some Labradoodles do shed, 
-            although the coat usually sheds less and has less "dog odor" than that of a Labrador retriever.
+            Our 6-month-old labradoodle, is still jumping on everyone, chewing everything, 
+            digging, not coming when called and being out of control a lot, 
+            even though she did so well in puppy class:-) We're so very proud! lol
           </Slide>
         </Carousel>
       </Frame>
